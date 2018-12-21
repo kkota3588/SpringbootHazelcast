@@ -1,0 +1,18 @@
+#Mongo DB Connection Details
+mongodb:
+  #  Connection Url
+  url: localhost:27017
+  # Database Name
+  db: test
+  # Username To connect to MongoDB
+  username: krishna
+  # Password
+  password: krish
+  # a3Jpc2g=
+  #database name
+  databasename: test
+  #collection name
+  collectionname: Employees
+  
+imdg.file.path: src/main/resources/hazelcast.xml
+#D://MYAPPLICATIONS//hazelcast-3.11//bin//hazelcast.xml
